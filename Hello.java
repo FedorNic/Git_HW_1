@@ -8,5 +8,6 @@ public class Hello {
         System.out.println("Yes");
         System.out.println("Hello, again!");
         System.out.println("Next commit");
+        System.out.println("Winter is coming");
     }
 }
